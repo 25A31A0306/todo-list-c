@@ -1,0 +1,39 @@
+# 📝 To-Do List in C
+
+A simple and interactive command-line To-Do List application built using the C programming language.
+
+## 🚀 Features
+
+* Add new tasks
+* View all tasks
+* Delete tasks
+* Mark tasks as completed ✔
+* Clean and user-friendly interface
+
+## 🧠 Concepts Used
+
+* Arrays and Strings
+* Functions
+* Loops and Conditional Statements
+* Basic User Input Handling
+
+## 💻 How to Run
+
+1. Compile the program:
+   gcc todo.c -o todo
+2. Run the program:
+   ./todo
+
+## 🎯 Purpose
+
+This project is created to practice basic C programming concepts and build a real-world mini application.
+
+## 📌 Future Improvements
+
+* Save tasks to file
+* Add task priority
+* Improve UI
+
+---
+
+✨ This is my beginner C project.
